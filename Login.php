@@ -1,9 +1,9 @@
 <?php
 
-$Uname = "Your Script Name.lua";  //Script Name
-$Url1 = "http://YourDomain.000webhostapp.com/Register.php"; //Register.php Link
-$Url2 = "http://YourDomain.000webhostapp.com/User.php"; //User.php Link
-$Url3 = "http://YourDomain.000webhostapp.com/ActionManager.php"; //ActionManager.php Link
+$Uname = "https://github.com/chanahack/HEEYai/raw/refs/heads/main/ScriptGGVIP.lua";  //Script Name
+$Url1 = "https://github.com/chanahack/test/raw/refs/heads/main/Register.php"; //Register.php Link
+$Url2 = "https://github.com/chanahack/test/raw/refs/heads/main/User.php"; //User.php Link
+$Url3 = "https://github.com/chanahack/test/raw/refs/heads/main/ActionManager.php"; //ActionManager.php Link
 
 
 
